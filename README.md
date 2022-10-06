@@ -10,4 +10,5 @@ Day 2:
 1. [Java Architecture](https://www.geeksforgeeks.org/differences-jdk-jre-jvm/?ref=lbp)
 2. [How does Java progrma works internally](https://www.geeksforgeeks.org/jvm-works-jvm-architecture/?ref=lbp)
 
-Day 3: [First Java progrma](https://www.geeksforgeeks.org/java-hello-world-program/?ref=lbp)
+Day 3: 
+1. [First Java progrma](https://www.geeksforgeeks.org/java-hello-world-program/?ref=lbp)
